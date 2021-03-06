@@ -58,7 +58,7 @@ span {
 .Footer2 {
   display: flex;
   justify-content: space-between;
-  padding: 20px 0px;
+  padding: 10px 0px;
 }
 .search {
   max-width: 584px;
@@ -108,8 +108,8 @@ span {
 .language p a {
   text-decoration: none;
 }
-.Footer2 div a {
-  padding: 15px;
+.Footer2 span a {
+  padding: 10px;
   margin: 10px;
   text-decoration: none;
   font-size: 14px;
